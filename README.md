@@ -2,6 +2,12 @@
 
 ## Project setup
 ```
+remove node-sass
+npm remove node-sass
+then install
+npm i node-sass@npm:sass -D
+Node sass project is deprecated. Don't use it anymore!
+then
 npm install
 ```
 
