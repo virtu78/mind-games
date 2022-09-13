@@ -29,7 +29,7 @@ npm run build
 ```
 
 ### Authorization
-1.Enter your email address  
-2.Check your email
-3.Сopy link from message, insert it into the input and click login
+1.Enter your email address.  
+2.Check your email.
+3.Сopy link from message, insert it into the input and click login.
 
