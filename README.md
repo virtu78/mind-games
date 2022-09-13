@@ -32,4 +32,5 @@ npm run build
 1.Enter your email address, check your email.  
 2.Сopy link from message, insert it into the input, click login.
 
-
+### Start
+Select card, click on title in center of the card.
