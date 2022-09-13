@@ -2,6 +2,8 @@
 
 ## Project setup
 
+### Here are the steps you should follow to make it work.
+
 #### remove node-sass
 ```
 npm remove node-sass
