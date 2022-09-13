@@ -1,7 +1,7 @@
 # brainsbattle
 
 ## Project setup
-```
+
 #### remove node-sass
 ```
 npm remove node-sass
